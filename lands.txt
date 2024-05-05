@@ -1,0 +1,3 @@
+101,Kathmandu,North,50000,Available
+102,Pokhara,East,60000,Available
+103,Lalitpur,South,100000,Available
